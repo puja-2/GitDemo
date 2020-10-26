@@ -8,6 +8,16 @@ public void postJira()
 {
 	System.out.println("postJira");
 }
+@Test
+public void postJira123()
+{
+	System.out.println("postJira123");
+}
+@Test
+public void postJira456()
+{
+	System.out.println("postJira456");
+}
 @Test 
 public void deleteTwitter()
 {
